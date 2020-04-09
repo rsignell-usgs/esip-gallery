@@ -3,7 +3,7 @@ name: ESIP Gallery
 description: >-
   An example gallery of notebooks developed by ESIP
 gallery_repository: pangeo-gallery/hurricane-ike
-binder_url: "https://binder.pangeo.io"
+binder_url: "https://staging.aws-uswest2.pangeo.io/"
 binder_repo: pangeo-gallery/default-binder
 binder_ref: master
 binderbot_target_branch: binderbot-built
