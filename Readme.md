@@ -17,4 +17,4 @@ The repo contains the following elements:
   configuration parameters (see [pangeo gallery documentation](http://gallery.pangeo.io)).
 - A thumbnail image (`thumbnail.png`), a 200 x 200 px image which represents
   the gallery content.
-- Github workflows, which make the magic happen! (Don't touch these.)
+- Github workflows, which make the magic happen! 
