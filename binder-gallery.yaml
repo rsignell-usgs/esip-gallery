@@ -1,9 +1,0 @@
----
-name: ESIP Gallery
-description: >-
-  An gallery of notebooks developed by ESIP Collaborators
-gallery_repository: pangeo-gallery/pangeo-gallery
-binder_url: "https://staging.aws-uswest2.pangeo.io/"
-binder_repo: rsignell-usgs/esip-gallery
-binder_ref: binder
-binderbot_target_branch: binderbot-built
