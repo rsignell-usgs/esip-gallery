@@ -1,6 +1,6 @@
 # ESIP Gallery
 
-This repository stores the ESIP gallery contribution to the the Pangeo Gallery.
+This repository stores ESIP gallery contributions for the Pangeo Gallery.
 It is configured to automatically build itself using
 [binderbot](https://github.com/pangeo-gallery/binderbot).
 It is linked, via a git submodule, the the
