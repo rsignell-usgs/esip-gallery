@@ -1,7 +1,7 @@
 ---
 name: ESIP Gallery
 description: >-
-  An gallery of notebooks developed by ESIP Collaborators
+  A gallery of notebooks developed by ESIP Collaborators
 gallery_repository: pangeo-gallery/pangeo-gallery
 binder_url: "https://aws-uswest2-binder.pangeo.io"
 binder_repo: pangeo-gallery/default-binder
